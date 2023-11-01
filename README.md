@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teetwothefirst
-- 👀 I’m interested in Web development, Software Engineering, Data Engineering and Game Development
+- 👀 I’m into Web development, Software Engineering, Data Engineering and Game Development
 - 🌱 I’m currently learning Full Stack Web development
 - 💞️ I’m looking to collaborate on remote, open-source, private and just about evertything related to my interest.
 - 📫 How to reach me dexterdavid835@gmail.com, 09038786424
