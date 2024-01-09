@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teetwothefirst
 - 👀 I’m into Web development, Software Engineering, Data Engineering, and Game Development
-- 🌱 I’m currently learning VueJs and Tailwind 
+- 🌱 I’m currently learning VueJs, React and Tailwind 
 - 💞️ I’m looking to collaborate on remote, open-source, private, and just about everything related to my interest.
 - 📫 How to reach me dexterdavid835@gmail.com, 09038786424
 
