@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-- 👋 Hi, I’m @Teetwothefirst<br>- 👀 I’m into Web development, Software Engineering, Data Engineering, and Game Development<br>- 🌱 I’m currently designing and building Drive and Orion - an Ride-Hailing and Chat Application <br>- 💞️ I’m looking to collaborate on remote, open-source, private, and just about everything related to my interest.<br>- 📫 How to reach me dexterdavid835@gmail.com.<br>
+- 👋 Hi, I’m @Teetwothefirst<br>- 👀 I’m into Web development, Software Engineering, Data Engineering, and Game Development<br>- 🌱 I’m currently designing and building Drive and Orion - a Ride-Hailing and Chat Application <br>- 💞️ I’m looking to collaborate on remote, open-source, private, and just about everything related to my interest.<br>- 📫 How to reach me dexterdavid835@gmail.com.<br>
 
 
 ## 🌐 Socials:
